@@ -20,8 +20,11 @@ Task 3.1 : Detection and pose estimation
 
 Task 3.2 : Motion sensing using Optical Flow - RAFT implementation
   1. evaluate.py - Code to evaluate the trained model and display the Optical Flow field.
-             `python evaluate.py --model=models/raft-things.pth --dataset=sintel --mixed_precision`
-     The dataset used for training is Sintel.
+      The dataset used for training is Sintel.
+      The command used to run is:
+  
+     `python evaluate.py --model=models/raft-things.pth --dataset=sintel --mixed_precision`
+     
   2. Link to the final video : 
   
      Moving Jellyfish - https://youtu.be/ZxsPxGn3FmE

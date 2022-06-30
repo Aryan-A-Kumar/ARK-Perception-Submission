@@ -1,5 +1,5 @@
 # ARKs-ticket-to-entry
-Code for the set of tasks provided by ARK Perception and relevant documentation.
+Code for the set of tasks provided by ARK Perception and the relevant documentation.
 
 Task 2.2 : Stereo image based collision avoidance
 

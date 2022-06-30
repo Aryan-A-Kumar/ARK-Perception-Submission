@@ -1,4 +1,4 @@
-# ARKs-confirm-ticket-to-entry
+# ARKs-ticket-to-entry
 Code for the set of tasks provided by ARK and relevant documentation.
 
 Task 2.2 : Stereo image based collision avoidance

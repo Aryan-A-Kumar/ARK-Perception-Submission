@@ -18,13 +18,8 @@ Task 3.1 : Detection and pose estimation
   The command for running is :-  
 `python pose_estimation.py --K_Matrix calibration_matrix.npy --D_Coeff distortion_coefficients.npy --type DICT_6X6_100`  
 
-Task 3.2 : Motion sensing using Optical Flow - RAFT implementation
-  1. evaluate.py - Code to evaluate the trained model and display the Optical Flow field. 
+Task 3.2 : Motion sensing using Optical Flow - RAFT implementation 
       The dataset used for validation is Sintel. The input image files or frames need to be seperately stored in a single folder.
-      The command for running is:
-  
-     `python evaluate.py --model=models/raft-things.pth --dataset=sintel --mixed_precision`
-     
   2. Link to the final video : 
    Moving Jellyfish - https://youtu.be/ZxsPxGn3FmE
      
